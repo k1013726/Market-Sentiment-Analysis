@@ -1,0 +1,2 @@
+- https://jishuin.proginn.com/p/763bfbd7fa2b
+- https://medium.com/@ravirajshinde2000/financial-news-sentiment-analysis-using-finbert-25afcc95e65f
