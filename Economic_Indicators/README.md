@@ -1,0 +1,13 @@
+## 經濟指標
+- 運算加密貨幣經濟指標，並處理成資料集，指標如下：
+    - EMA
+    - MACD
+    - RSI 
+    - SMA
+    - stochastic RSI
+- 測試通過yfinance模組下載比特幣資料：
+    - test.py
+- 運算指標和處理成資料集：
+    - main.ipynb
+- 指標基本程式
+    - Indicators 資料夾
