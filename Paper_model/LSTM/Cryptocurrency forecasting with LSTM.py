@@ -54,7 +54,7 @@ from scipy.io import arff
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 # load a dataset
-data_file = "../Data/ETHUSDT-1h.arff"
+data_file = "../Data/WekaData/BTCUSD-all.arff"
 
 # Load arff file
 data, meta = arff.loadarff(data_file)
